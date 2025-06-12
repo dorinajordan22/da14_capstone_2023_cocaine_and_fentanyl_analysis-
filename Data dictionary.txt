@@ -1,0 +1,4 @@
+ 
+
+ED - Emergency Room Department
+HOSP - In-patient hospitalization
